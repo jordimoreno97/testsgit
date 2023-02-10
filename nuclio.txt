@@ -2,4 +2,8 @@ Hola muy buenas
 
 Mi nombre es Jordi
 
+<<<<<<< HEAD
 Soy de Rubí
+=======
+Tengo 25 años
+>>>>>>> dev
